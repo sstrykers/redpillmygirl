@@ -1,7 +1,4 @@
 
-<html>
-  
-  
 <body>
 
 <h1>redpill my girlfriend</h1>
@@ -75,6 +72,6 @@
     <div id="footer">
 		<a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
     </div>
-    
+    </font><br />
 </body>
 </html>
