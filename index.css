@@ -1,4 +1,5 @@
 <style>
+<p style="font-family:Courier; color:Blue; font-size: 20px;">
 
 /*** universal ***/
 
@@ -30,5 +31,6 @@ body {font-size: 85%; Courier New,Courier,Lucida Sans Typewriter,Lucida Typewrit
 #right-column {width: 33%}
 
 #footer {width: 100%; float: left; padding: 20px 0; text-align: center; font-size: 0.9em;}
+</p>
 </style>
 
