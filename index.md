@@ -1,5 +1,5 @@
 <html>
-<link rel='stylesheet' href='index.css' />
+<link rel='stylesheet' href='index.css'
 
 <h1>redpill my girlfriend</h1>
 <p >My first paragraph.</p>
@@ -74,5 +74,5 @@
     </div>
     
 </body>
-
+ />
 </html>
