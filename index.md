@@ -33,7 +33,7 @@
         <ul>   
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
-			<p>This is a paragraph describing the link above, if necessary. These paragraphs can be as long as you like and will push everything below it down to make room.</p></li>
+			<p>.</p></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
