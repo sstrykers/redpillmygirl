@@ -1,8 +1,6 @@
 
 <html>
-  
-  
-<body>
+
 
 <h1>redpill my girlfriend</h1>
 <p >My first paragraph.</p>
@@ -10,9 +8,8 @@
     
 <div id="left-column">
 		<ul>
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
-			<p>This is a paragraph describing the link above, if necessary. </p></li>
-			<li><a href="https://fee.org/articles/how-to-stop-being-a-non-player-character-npc-in-your-own-life/]">How to Stop Being a Non-Player Character (NPC) in Your Own Life</a></li>
+    
+<li><a href="https://fee.org/articles/how-to-stop-being-a-non-player-character-npc-in-your-own-life/]">How to Stop Being a Non-Player Character (NPC) in Your Own Life</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
