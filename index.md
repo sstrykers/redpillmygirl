@@ -1,6 +1,4 @@
-<html>
-<p style = "font-family:courier new,courier,monospace;font-size:16px;font-style:italic;">
-       
+<html>    
 	
 <link rel="stylesheet" Type="text/css" href="index.css">
 	
@@ -77,5 +75,4 @@
     </div>
     
 </body>
-</p>
 </html>
