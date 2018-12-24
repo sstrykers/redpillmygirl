@@ -1,5 +1,8 @@
 <style>
-<p style="font-family:Courier; color:Blue; font-size: 20px;">
+/*** reset ***/
+html, body, div, span, h1, h2, h3, p, a, img, strong, ol, ul, li { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%;	font-family: inherit; vertical-align: baseline; }
+
+img {border: 0;}
 
 /*** universal ***/
 
@@ -16,7 +19,7 @@ h3 {margin: 20px 40px 10px 20px; padding: 20px 0 0 0; border-top: 2px solid blac
 
 /** main **/
 
-body {font-size: 85%; Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; line-height: 1;}
+body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;}
 
 #header {width: 100%; float: left; padding: 10px 0; text-align: center; border-bottom: 2px solid black}
 	#header h1#page-name {margin: 0; font-size: 1px; text-indent: -9999px}
@@ -31,6 +34,4 @@ body {font-size: 85%; Courier New,Courier,Lucida Sans Typewriter,Lucida Typewrit
 #right-column {width: 33%}
 
 #footer {width: 100%; float: left; padding: 20px 0; text-align: center; font-size: 0.9em;}
-</p>
 </style>
-
