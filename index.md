@@ -1,4 +1,5 @@
 <html>
+<font color="#005CB9" face="courier" size="5">
 	
 <link rel="stylesheet" Type="text/css" href="index.css">
 	
@@ -75,5 +76,5 @@
     </div>
     
 </body>
- />
+</font>
 </html>
