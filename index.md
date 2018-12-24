@@ -1,6 +1,6 @@
 
 <html>
-<p style="font-family:'Courier New'"
+
 
 <h1>redpill my girlfriend</h1>
 <p >My first paragraph.</p>
