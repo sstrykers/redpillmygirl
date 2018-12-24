@@ -1,33 +1,26 @@
-<!DOCTYPE html>
+
 <html>
+  
+  
 <body>
 
-<h1>My First Heading</h1>
+<h1>redpill my girlfriend</h1>
 <p>My first paragraph.</p>
 
-
-	<div id="header">
-    	<h1 id="page-name">[[Enter the name of your site here]]</h1>
-    	<div id="page-banner">
-        	<img src="[[Enter the direct link to your banner image here]]" alt="[[Describe your image here]]">
-        </div>
-        <h2>Story of the day</h2>
-        <p><img src="[[Enter an image here if you'd like. This image will be resized to 200 pixels wide]]" alt="[[Describe your image here]]" >[[Enter story of the day text here]]</p>
-    </div>
     
-    <div id="left-column">
+<div id="left-column">
 		<ul>
             <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
 			<p>This is a paragraph describing the link above, if necessary. </p></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="https://fee.org/articles/how-to-stop-being-a-non-player-character-npc-in-your-own-life/]">How to Stop Being a Non-Player Character (NPC) in Your Own Life</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
        </ul>
 
-        <h3>List of links</h3>
+<h3>List of links</h3>
         
-        <ul>
+<ul>
             <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
@@ -36,9 +29,9 @@
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
         </ul>
         
-    </div>
+ </div>
     
-    <div id="middle-column">
+<div id="middle-column">
         <ul>   
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
@@ -48,9 +41,9 @@
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
     	</ul>
         
-        <h3>List of links</h3>
+<h3>List of links</h3>
 
-        <ul>
+  <ul>
             <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
@@ -58,11 +51,11 @@
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
         </ul>
 
-    </div>
+</div>
     
-    <div id="right-column">
+<div id="right-column">
     
-    	<ul>    
+  <ul>    
             <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
@@ -70,18 +63,15 @@
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
         </ul>
         
-        <h3>List of links</h3>
-
-        <ul>
+<h3>List of links</h3>
+<ul>
             <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
         </ul>
-
-    </div>
-    
+</div>
     <div id="footer">
 		<a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
     </div>
