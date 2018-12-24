@@ -1,5 +1,7 @@
 <html>
-<font color="#005CB9" face="courier" size="5">
+<p style = "font-family:courier new,courier,monospace;font-size:16px;font-style:italic;">
+       
+  </p>
 	
 <link rel="stylesheet" Type="text/css" href="index.css">
 	
