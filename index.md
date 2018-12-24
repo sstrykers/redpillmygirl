@@ -9,8 +9,9 @@
 <div id="left-column">
 		<ul>
     
-<li><a href="https://fee.org/articles/how-to-stop-being-a-non-player-character-npc-in-your-own-life/]">How to Stop Being a Non-Player Character (NPC) in Your Own Life</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+<li><a href="https://fee.org/articles/how-to-stop-being-a-non-player-character-npc-in-your-own-life/">How to Stop Being a Non-Player Character (NPC) in Your Own Life</a></li>
+			
+<li><a href="https://www.netflix.com/title/80187306">Russel Brand ruminates on the state of the world</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
        </ul>
