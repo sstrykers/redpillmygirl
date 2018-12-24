@@ -20,7 +20,7 @@ h3 {margin: 20px 40px 10px 20px; padding: 20px 0 0 0; border-top: 2px solid blac
 
 /** main **/
 
-body {font-size: 85%; font-family: "courier new", Courier, Monospace; line-height: 1;}
+body {font-size: 85%; font-family: Courier, Courier, Monospace; line-height: 1;}
 
 #header {width: 100%; float: left; padding: 10px 0; text-align: center; border-bottom: 2px solid black}
 	#header h1#page-name {margin: 0; font-size: 1px; text-indent: -9999px}
